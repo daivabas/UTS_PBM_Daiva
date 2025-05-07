@@ -1,0 +1,18 @@
+name: daiva_uts_app
+description: A simple counter Flutter app
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.7.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_adaptive_scaffold: ^0.1.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
